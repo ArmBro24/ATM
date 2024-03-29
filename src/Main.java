@@ -8,7 +8,6 @@ public class Main {
         Database database = new Database();
 
         menuwindow(database);
-        System.out.println("ARMBRO GAY");
     }
 
     static void menuwindow(Database database) {
